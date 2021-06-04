@@ -13,5 +13,5 @@ UCLASS()
 class RABBETGAME_API ARabbetGameGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+
 };
